@@ -28,4 +28,7 @@ Puppet is a configuration management tool that is used for deploying configurati
  -   &darr;
     **Pull configuration &rarr; Push configuration**
   <p>Lets talk about Pull configuration 
+ It obviously follows a master-slave architecture, where is slaves will pull the central server for changes made in the configuration.So we have multiple nodes connected to the master , so they will check continuously is there any changes in the configuration happened in the Master repository. </br>
+The moment
+ 
 
