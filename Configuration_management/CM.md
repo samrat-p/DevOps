@@ -11,5 +11,21 @@ Configuration management is a process for provisioning developers, test and prod
  - It helps us to revert to a previous version of the component if you have replaced with a new but flawed version now.
  
  **Example through a use case** 
-
+blah blah blah will added later</br>
+## Configuration Management Tools
+ - Puppet
+ - Chef
+ - Ansible
+ - Saltstack
+ 
+In here we are gonna talk about **Puppet** </br>
+Puppet is a configuration management tool that is used for deploying configuration and managing servers. </br>
+**Function of Puppet**
+ - You can define distinct configuration for each and every host and continuously checks and confirm whether the required configuration is in place and is not altered on the host.
+ - If it is altered puppet will revert back to its required configuration.
+ - It can also helping dynamic scaling up and down in machines.
+ - It follows an Master- Slave architecture.
+ -   &darr;
+    **Pull configuration &rarr; Push configuration**
+  <p>Lets talk about Pull configuration 
 
