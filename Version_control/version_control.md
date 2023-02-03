@@ -107,4 +107,4 @@ just copy your SSH from there.</p>
 <p><code>$git checkout 'branch name'</code> that will swich to that branch.</p>
 
 <p> <code>$git checkout -b 'new-branch'</code> The -b option is a convenience flag that tells Git to run git branch before running git checkout <new-branch>.</p>
- [Introduction >>](./Version_control/version_control.md)
+ [Introduction >>](./Readme.md)
