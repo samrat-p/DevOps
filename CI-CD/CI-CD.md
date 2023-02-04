@@ -1,3 +1,7 @@
+﻿#  🐍 Introduction to DevOps
+**3. Continuous Intregation & Deployment**
+
+
 ## CI / CD
 To manage production capable applications we need to use CI/CD.
 Continuous integration to Continuous Delivery to Continuous Deployment that is how the process goes.
